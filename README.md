@@ -22,4 +22,24 @@
         ls
         python LITEFB.py
 
+### PERINGATAN !!!
+        Tools sangat dilarang untuk hal² yang negatif 
+        Gunakanlah tools sewajarnya saja aku tidak 
+        Bertanggungjawab terhadap apa yang anda lakukan
+ 
+### AUTHOR
+         JEECK X NANO
+         MR RISKY
+         ALDI (XENZI) 
+         AANG-XD
+         NAZRI
+         YUME
+         YUMASAA
+         EZAA
+         YOSHI
+### TEAM PROJECT 
+         XNXCODE
+         XTC CODE
+         GARUDA CODE
+         INDONESIAN PROGRAMER 
 
