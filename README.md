@@ -19,6 +19,7 @@
         git clone https://github.com/Jeeck-XD/LITEFB
         cd LITEFB
         git pull
+        pip install -r requirements.txt
         ls
         python LITEFB.py
 
